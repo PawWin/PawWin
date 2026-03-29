@@ -2,17 +2,21 @@
 <h3 align="center">Building useful things on the web from Poland</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawwin&label=Profile%20views&color=2f3136&style=flat" alt="pawwin profile views" />
-</p>
-
-<p align="center">
-  <a href="https://tracker.wajcha.dev"><strong>Currently building NextFrame</strong></a><br />
-  Fast, focused work on <a href="https://tracker.wajcha.dev">tracker.wajcha.dev</a>
-</p>
-
-<p align="center">
   <a href="https://git.io/streak-stats">
     <img alt="Paweł's GitHub streak" src="https://streak-stats.demolab.com/?user=pawwin&theme=dark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" />
+  </a>
+</p>
+
+<h3 align="left">Currently working on</h3>
+<p align="left">
+  <a href="https://tracker.wajcha.dev"><strong>NextFrame</strong></a>
+</p>
+<p align="left">
+  Personal movie and TV show tracking.
+</p>
+<p align="left">
+  <a href="https://tracker.wajcha.dev">
+    <img src="https://tracker.wajcha.dev/NextFrame.png" alt="NextFrame" width="96" height="96" />
   </a>
 </p>
 
@@ -23,4 +27,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pawel-winkler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paweł winkler" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pawwin&color=2f3136&style=flat" alt="pawwin views" />
 </p>
