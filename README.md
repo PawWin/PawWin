@@ -18,10 +18,22 @@
 
 - ⚡ Fun fact **Humans are more sensitive to the smell of fresh rain than sharks are to the smell of blood**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/pawel-winkler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paweł winkler" height="30" width="40" /></a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <a href="https://git.io/streak-stats">
