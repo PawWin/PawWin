@@ -1,20 +1,14 @@
 <h1 align="center">Hi, I'm Paweł</h1>
 <h3 align="center">Building useful things on the web from Poland</h3>
 
+<h3 align="center">Currently working on</h3>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img alt="Paweł's GitHub streak" src="https://streak-stats.demolab.com/?user=pawwin&theme=dark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" />
-  </a>
-</p>
-
-<h3 align="left">Currently working on</h3>
-<p align="left">
   <a href="https://tracker.wajcha.dev"><strong>NextFrame</strong></a>
 </p>
-<p align="left">
+<p align="center">
   Personal movie and TV show tracking.
 </p>
-<p align="left">
+<p align="center">
   <a href="https://tracker.wajcha.dev">
     <img src="https://tracker.wajcha.dev/NextFrame.png" alt="NextFrame" width="96" height="96" />
   </a>
@@ -30,5 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawwin&color=2f3136&style=flat" alt="pawwin views" />
+  <a href="https://git.io/streak-stats">
+    <img alt="Paweł's GitHub streak" src="https://streak-stats.demolab.com/?user=pawwin&theme=dark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" />
+  </a>
 </p>
