@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
-  <rect x="1" y="1" width="1198" height="278" rx="20" fill="#ffffff" stroke="#d1d9e0" stroke-width="2"/>
-  <rect x="64" y="58" width="48" height="6" rx="3" fill="#2563eb"/>
-  <text x="64" y="132" font-size="64" font-weight="700" fill="#1f2328">Paweł Winkler</text>
-  <text x="64" y="186" font-size="28" fill="#59636e">I build small apps that do one thing well.</text>
-  <text x="64" y="226" font-size="28" fill="#59636e">Web, desktop, and the occasional game mod. From Poland.</text>
-</svg>

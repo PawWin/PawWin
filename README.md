@@ -1,20 +1,20 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PawWin/PawWin/main/assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PawWin/PawWin/main/assets/hero-light.svg">
-  <img alt="Paweł Winkler. I build small apps that do one thing well." src="https://raw.githubusercontent.com/PawWin/PawWin/main/assets/hero-light.svg" width="100%">
-</picture>
+### Paweł Winkler
 
-<a href="https://tracker.wajcha.dev"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PawWin/PawWin/main/assets/card-nextframe-dark.svg">
-  <img alt="NextFrame (web)" src="https://raw.githubusercontent.com/PawWin/PawWin/main/assets/card-nextframe-light.svg" width="260">
-</picture></a>
-<a href="https://github.com/PawWin/autoclicker"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PawWin/PawWin/main/assets/card-tap-dark.svg">
-  <img alt="Tap (Rust desktop autoclicker)" src="https://raw.githubusercontent.com/PawWin/PawWin/main/assets/card-tap-light.svg" width="260">
-</picture></a>
-<a href="https://github.com/PawWin/watcher-releases"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PawWin/PawWin/main/assets/card-watcher-dark.svg">
-  <img alt="Watcher (desktop)" src="https://raw.githubusercontent.com/PawWin/PawWin/main/assets/card-watcher-light.svg" width="260">
-</picture></a>
+I build small apps that do one thing well. Web, desktop, and the occasional game mod. Based in Poland.
 
 [Email](mailto:winkler.pawel22@gmail.com) · [LinkedIn](https://linkedin.com/in/pawel-winkler)
+
+#### Apps
+
+- **[NextFrame](https://tracker.wajcha.dev)** — Personal movie and TV show tracking
+- **[Tap](https://github.com/PawWin/autoclicker)** — A minimal autoclicker in Rust with a native Slint UI
+- **[Watcher](https://github.com/PawWin/watcher-releases)** — Desktop app for Linux and Windows with in-app updates
+
+#### Mods & experiments
+
+- **[DataCenter-MoreModules](https://github.com/PawWin/DataCenter-MoreModules)** — Buy network modules in boxes of 32 and 64 in *Data Center*
+- **[mini-blockchain-demo](https://github.com/PawWin/mini-blockchain-demo)** — A tiny blockchain in JavaScript
+
+#### University
+
+- **[NASA-Project](https://github.com/PawWin/NASA-Project)** — APOD, asteroids, Mars rover photos and sky maps from NASA's APIs
