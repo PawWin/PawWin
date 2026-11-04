@@ -13,8 +13,3 @@ I build small apps that do one thing well. Web, desktop, and the occasional game
 #### Mods & experiments
 
 - **[DataCenter-MoreModules](https://github.com/PawWin/DataCenter-MoreModules)** — Buy network modules in boxes of 32 and 64 in *Data Center*
-- **[mini-blockchain-demo](https://github.com/PawWin/mini-blockchain-demo)** — A tiny blockchain in JavaScript
-
-#### University
-
-- **[NASA-Project](https://github.com/PawWin/NASA-Project)** — APOD, asteroids, Mars rover photos and sky maps from NASA's APIs
